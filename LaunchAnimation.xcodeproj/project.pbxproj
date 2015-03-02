@@ -90,8 +90,8 @@
 				4385369B1AA4403100A5049E /* ViewController.m */,
 				438536B91AA441E500A5049E /* AnimationController.h */,
 				438536BA1AA441E500A5049E /* AnimationController.m */,
-				438536BC1AA4424C00A5049E /* Main.storyboard */,
 				438536A01AA4403100A5049E /* Images.xcassets */,
+				438536BC1AA4424C00A5049E /* Main.storyboard */,
 				438536A21AA4403100A5049E /* LaunchScreen.xib */,
 				438536931AA4403100A5049E /* Supporting Files */,
 			);

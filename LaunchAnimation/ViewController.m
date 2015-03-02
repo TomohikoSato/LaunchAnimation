@@ -46,7 +46,7 @@
 }
 
 - (id<UIViewControllerAnimatedTransitioning>)animationControllerForDismissedController:(UIViewController *)dismissed {
-    return [AnimationController new];
+    return nil;
 }
 
 
